@@ -528,15 +528,6 @@ section{
     gap:1.5rem;
 }
 
-.contact .row .map{
-    flex:1 1 42rem;
-    width: 100%;
-    padding:2rem;
-    box-shadow: var(--box-shadow);
-    border:var(--border);
-    border-radius: .5rem;
-}
-
 .contact .row form{
     padding:2rem;
     flex:1 1 42rem;
