@@ -601,7 +601,9 @@ section{
     color:var(--black);
 }
 
-
+.credit a{
+	color: red;
+}
 
 
 
